@@ -42,7 +42,6 @@ And the custom **command** is storred in ```cypress\support\commands```
 - cart.spec.cy
 - proceedingToCheckout.spec.cy
 - makingCheckout.spec.cy
-- checkoutInfoPage.spec.cy
 - checkoutComplete.spec.cy
 - userLogout.spec.cy
 - 🚨 **bonusTask.spec.cy - bonus task**
