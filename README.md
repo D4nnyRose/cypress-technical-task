@@ -1,5 +1,5 @@
 
-# INFORCE Technical Task using Cypress E2E
+#  Cypress E2E testing
 
 ## Preinstallation:
 
